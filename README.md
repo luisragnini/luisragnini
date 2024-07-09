@@ -23,6 +23,20 @@ I'm currently focusing on honing my skills in front-end technologies, building i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-henrique-martello-ragnini/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luis_ragnini)
 
+## Spotify 🎧
+
+<div align="left">
+  <a href="https://open.spotify.com/user/zgz9mbebb6iu2vr8vndy8cwd1">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zgz9mbebb6iu2vr8vndy8cwd1&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+
+
+
+
 
 ## GitHub Stats
 
