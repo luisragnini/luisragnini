@@ -10,8 +10,6 @@ Hello! I'm Luís Henrique Ragnini 👋, a passionate beginner developer currentl
 
 I'm currently focusing on honing my skills in front-end technologies, building interactive and responsive web applications that provide great user experiences. However, my ultimate goal is to become a full-stack developer, mastering both the front-end and back-end to create comprehensive and robust applications. 🚀
 
-I believe in continuous learning and enjoy experimenting with new technologies and frameworks. My GitHub repositories showcase my progress and the various projects I've been working on. I'm excited about the endless possibilities in the tech world and look forward to contributing to the community and collaborating on innovative projects. 🌟
-
 ## Technologies and Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +22,6 @@ I believe in continuous learning and enjoy experimenting with new technologies a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-henrique-martello-ragnini/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luis_ragnini)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisragnini@hotmail.com)
 
 
 ## GitHub Stats
