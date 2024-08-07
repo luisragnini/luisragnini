@@ -40,7 +40,11 @@ I'm currently focusing on honing my skills in front-end technologies, building i
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisragnini&layout=compact&theme=radical)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisragnini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=true&order=2" height="120" alt="languages graph"  />
+</div>
+
+###
 
 
 
